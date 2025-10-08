@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "longDescription": "Learn the basics of playing guitar with our comprehensive beginner's course. This course will guide you through chords, scales, strumming patterns, and finger exercises. You'll also explore popular songs to practice your skills and build confidence in your playing. By the end, you'll have a solid foundation to continue your musical journey and express yourself through the guitar.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+            "longDescription": "Start your musical journey with foundational piano skills taught by expert instructors. In this course, you'll learn proper hand positioning, basic music theory, sight reading, and techniques for playing simple melodies. Practice exercises and guided lessons will help you progress steadily, preparing you to play both classical and contemporary pieces confidently.",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Vocal Techniques",
+            "slug": "advanced-vocal-techniques",
+            "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+            "longDescription": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners. This course focuses on breath control, vocal range expansion, pitch accuracy, and expressive techniques. You'll learn exercises to strengthen your voice, explore different musical styles, and gain performance skills to elevate your singing to the next level.",
+            "price": 119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "/courses/vocalist.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Mastery",
+            "slug": "drumming-mastery",
+            "description": "Master the drums with our comprehensive course covering all skill levels.",
+            "longDescription": "Master the drums with our comprehensive course covering all skill levels. You'll start with basic rhythms and stick techniques, then progress to complex drum patterns, fills, and coordination exercises. The course includes practice routines, lessons on different musical genres, and tips for performing with other musicians, helping you develop precision and creativity behind the kit.",
+            "price": 129.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/courses/drumming.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+            "longDescription": "Learn the art of jazz improvisation with this course designed for all levels. Discover jazz scales, chord progressions, and phrasing techniques that allow you to create spontaneous and expressive solos. Through practical exercises and listening analysis, you'll gain the skills to improvise confidently over various jazz standards and develop your unique musical voice.",
+            "price": 139.99,
+            "instructor": "Chris Davis",
+            "isFeatured": false,
+            "image": "/courses/jazz.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Music Production Fundamentals",
+            "slug": "music-production-fundamentals",
+            "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+            "longDescription": "Dive into music production with this introductory course on the basics of sound engineering and mixing. Learn how to record instruments, edit audio, and use digital audio workstations effectively. The course also covers basic mixing and mastering techniques, sound design, and production workflows, enabling you to create professional-sounding tracks from start to finish.",
+            "price": 149.99,
+            "instructor": "Alex Wilson",
+            "isFeatured": true,
+            "image": "/courses/music-prod.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Songwriting Essentials",
+            "slug": "songwriting-essentials",
+            "description": "Learn the essentials of songwriting to express your musical creativity.",
+            "longDescription": "Learn the essentials of songwriting to express your musical creativity. This course covers melody creation, lyric writing, chord progression development, and song structure. You'll also explore techniques for developing hooks, bridges, and refrains, and receive guidance on refining your songs. By the end, you'll be equipped to write compelling music that resonates with listeners.",
+            "price": 159.99,
+            "instructor": "Samantha Miller",
+            "isFeatured": false,
+            "image": "/courses/song-writing.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+            "longDescription": "Create compelling electronic music with our course designed for beginners to advanced users. Learn about synthesizers, drum machines, digital audio workstations, and sound design techniques. Explore arranging, mixing, and mastering electronic tracks, while developing your own style. The course also provides guidance on workflow optimization, performance techniques, and creating music ready for release.",
+            "price": 169.99,
+            "instructor": "Luke Harris",
+            "isFeatured": true,
+            "image": "/courses/music-prod.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Classical Music History",
+            "slug": "classical-music-history",
+            "description": "Explore the rich history of classical music from its origins to the present day.",
+            "longDescription": "Explore the rich history of classical music from its origins to the present day. This course examines composers, key works, musical periods, and historical contexts that shaped classical music. Learn to appreciate stylistic developments, performance practices, and influential compositions that continue to inspire musicians today. Gain insights into both Western and global classical traditions.",
+            "price": 179.99,
+            "instructor": "Grace Lee",
+            "isFeatured": false,
+            "image": "/courses/classical-music.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Blues Guitar Techniques",
+            "slug": "blues-guitar-techniques",
+            "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+            "longDescription": "Discover the techniques of blues guitar to add soul and depth to your playing. Learn blues scales, bending, vibrato, slide techniques, and chord voicings. The course covers classic blues styles, improvisation over 12-bar blues progressions, and how to incorporate emotional expression into your playing. By the end, you'll be able to play authentic blues licks and develop your unique blues sound.",
+            "price": 189.99,
+            "instructor": "Ethan Moore",
+            "isFeatured": true,
+            "image": "/courses/blues.jpg"
+        }
+    ]
+}
